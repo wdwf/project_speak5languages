@@ -4,8 +4,8 @@ node_modules/
 build/
 tmp/
 temp/
-*.env
-*.env.test
+.env
+.env.test
 backend/coverage/
 coverage
 backend/dist/
